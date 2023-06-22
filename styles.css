@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/1329296/pexels-photo-1329296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+  }
+  
+  h1 {
+    color: hsl(240, 15%, 95%); /* Red font color */
+  }
+  
+  #game-section {
+    margin-top: 20px;
+  }
+  
+  #result {
+    margin-top: 20px;
+  }
+  
